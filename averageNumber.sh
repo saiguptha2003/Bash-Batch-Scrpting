@@ -8,4 +8,4 @@ read elements
 sum=`expr $sum+$elements`
 done
 average=$(( sum / number ))
-echo "averge is n numbers :$average "
+echo "averge is n numbers :$average"
