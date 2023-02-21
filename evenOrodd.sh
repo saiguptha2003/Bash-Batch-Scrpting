@@ -1,5 +1,5 @@
 number=$1
-#echo -n "enter number :"
+#echo -n "enter number : "
 #read number
 flag=`expr $number % 2`
 if [ $flag == 0 ]
