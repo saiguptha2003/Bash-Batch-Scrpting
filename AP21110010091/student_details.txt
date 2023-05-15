@@ -1,0 +1,196 @@
+﻿AP21110010102,MOHAMMAD AAKHIL,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),aakhil_mohammad@srmap.edu.in
+AP21110010148,KUMAR ABINASH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),abinash_kumar@srmap.edu.in
+AP21110010079,CHAGANTIPATI AETESH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),aetesh_c@srmap.edu.in
+AP21110010085,SAI AKASH BELLAMKONDA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),saiakash_b@srmap.edu.in
+AP21110010125,KAPA AKHIL SAI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),akhilsai_kapa@srmap.edu.in
+AP21110010049,HAASITHA AMBATI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),haasitha_ambati@srmap.edu.in
+AP21110010088,GOLLAPUDI AMISH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),amish_gollapudi@srmap.edu.in
+AP21110010008,JAMMULA AMIT CHANDRA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),amith_jammula@srmap.edu.in
+AP21110010141,SUBODH AMRU KILIVETI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),subodhamru_k@srmap.edu.in
+AP21110010089,SOMAYAJULA ANJANA HARSHITHA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),harshitha_s@srmap.edu.in
+AP21110010040,TALLAPANENI ANJANA SAI KUMAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),anjanasai_t@srmap.edu.in
+AP21110010083,KARNATA ANUDEEP,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),anudeep_karnata@srmap.edu.in
+AP21110010039,SHAIK ANWAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),shaik_anwar@srmap.edu.in
+AP21110010090,MAHAMKALI ARJUN,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),arjun_mahamkali@srmap.edu.in
+AP21110010053,KANDULA AYYAPPA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),ayyappa_kandula@srmap.edu.in
+AP21110010175,HARSHAVARDHAN BELLAMKONDA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),harshavardhan_b@srmap.edu.in
+AP21110010184,BODAPATI BHAVYA SREE,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),bhavyasree_bodapati@srmap.edu.in
+AP21110010138,AKSHAT BIYANI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),akshat_biyani@srmap.edu.in
+AP21110010182,NEKKALAPU CHAITANYA KRISHNA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),chaitanyakrishna_n@srmap.edu.in
+AP21110010012,PONNURU CHANDAN KUMAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),chandan_ponnuru@srmap.edu.in
+AP21110010063,SUDUNAGUNTA CHANDRA VIVEK,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),chandravivek_s@srmap.edu.in
+AP21110010098,MEENAVALLI CHANDU,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),meenavalli_chandu@srmap.edu.in
+AP21110010004,SOURITRI CHATTERJEE,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),souritri_c@srmap.edu.in
+AP21110010176,MALLEBOYINA CHETAN SAI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),chetansai_m@srmap.edu.in
+AP21110010020,VEERAVALLI CHETHAN,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),veeravalli_chethan@srmap.edu.in
+AP21110010158,THOTA CHIRANJEEVI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),chiranjeevi_thota@srmap.edu.in
+AP21110010112,MAINAK DASGUPTA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),mainak_dasgupta@srmap.edu.in
+AP21110010061,BATCHU DATTATREYA RAVI PRAKASH GUPTA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),raviprakash_b@srmap.edu.in
+AP21110010086,SRUJITHA DEVINENI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),srujitha_devineni@srmap.edu.in
+AP21110010170,VAISHNAVI DEVINENI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),vaishnavi_devineni@srmap.edu.in
+AP21110010087,GADAMSETTY DEVI SRI NIKHITA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),devisri_gadamsetty@srmap.edu.in
+AP21110010092,BORRA DHANESH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),dhanesh_borra@srmap.edu.in
+AP21110010067,NALLAPANENI DIVYA SRI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),divyasri_n@srmap.edu.in
+AP21110010091,V D PANDURANGA SAI GUPTHA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),saiguptha_v@srmap.edu.in
+AP21110010056,ATHIPATLA GANESH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),ganesh_athipatla@srmap.edu.in
+AP21110010057,AKASH GHOSH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),akash_ghosh@srmap.edu.in
+AP21110010151,ADDEPALLI GNANA JAYA SREE,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),jayasree_addepalli@srmap.edu.in
+AP21110010167,MEDISETTY GOPI CHAND,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),gopichand_m@srmap.edu.in
+AP21110010163,KANAGALA GUNA VARSHITH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),gunavarshith_k@srmap.edu.in
+AP21110010114,KONGARA HAASVIK,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),haasvik_kongara@srmap.edu.in
+AP21110010132,KOMMU HARIKA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),harika_kommu@srmap.edu.in
+AP21110010070,GARIKAPATI HARSHA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),harsha_garikapati@srmap.edu.in
+AP21110010050,PUNURU HARSHA REDDY,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),harsha_punuru@srmap.edu.in
+AP21110010136,KHANDAVILLI HARSHA VARDHAN,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),harsha_khandavilli@srmap.edu.in
+AP21110010117,KOLLA JAGADEESH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),jagadeesh_kolla@srmap.edu.in
+AP21110010131,ABDUL JAWAD KHAN,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),jawad_khan@srmap.edu.in
+AP21110010161,KAMMA JAYA SREE,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),jayasree_kamma@srmap.edu.in
+AP21110010110,SINGAVARAPU JOY DONALD,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),joydonald_s@srmap.edu.in
+AP21110010126,ABHIRUP KAR,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),abhirup_kar@srmap.edu.in
+AP21110010177,VUNDAVALLI KARISHMA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),karishma_vundavalli@srmap.edu.in
+AP21110010028,ANAPANA KARTHIK REDDY,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),karthik_anapana@srmap.edu.in
+AP21110010101,CHALLAPALLI KAUSIK,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),kausik_challapalli@srmap.edu.in
+AP21110010060,GULLIPALLI KAVYA SRI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),kavyasri_gullipalli@srmap.edu.in
+AP21110010026,BATCHU KEDHAR ASHISH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),ashish_batchu@srmap.edu.in
+AP21110010010,VALLABHANENI KEERTHI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),keerthi_v@srmap.edu.in
+AP21110010111,MADANU KIRAN CHAND,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),kiran_madanu@srmap.edu.in
+AP21110010165,PONNEBOINA KRISHNA SAI RAJ,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),krishnasairaj_p@srmap.edu.in
+AP21110010187,BORRA KRISHNA VARSHITA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),krishnavarshita_borra@srmap.edu.in
+AP21110010095,AJITH KUMAR MEDEPALLI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),ajithkumar_m@srmap.edu.in
+AP21110010002,NIKHIL KUMAR SAINI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),nikhilkumar_saini@srmap.edu.in
+AP21110010106,T KUMAR VARMA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),kumarvarma_t@srmap.edu.in
+AP21110011172,KOTAPATI LAHARI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),lahari_kotapati@srmap.edu.in
+AP21110010041,PALADUGU LAKSHMI SAI PRAKASH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),saiprakash_p@srmap.edu.in
+AP21110010071,KURMALA LAKSHMI SATHVIKA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sathvika_kurmala@srmap.edu.in
+AP21110010178,KOLLI LAKSHMI VARSHITA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),lakshmivarshita_kolli@srmap.edu.in
+AP21110010153,BOKKASAM LALITH SAI MANOJ,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),lalithsai_bokkasam@srmap.edu.in
+AP21110010164,PULLEPU LASYA PRIYA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),lasyapriya_pullepu@srmap.edu.in
+AP21110010166,MILAN LIJU MATHEW,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),milanliju_mathew@srmap.edu.in
+AP21110010099,KAKARAPARTHI LOKESH VENKATA SAI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),lokesh_kakaraparthi@srmap.edu.in
+AP21110010006,CHIMATA MAHITHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),mahitha_chimata@srmap.edu.in
+AP21110010058,SHAIK MAHMUD,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),mahmud_shaik@srmap.edu.in
+AP21110010134,VISHNUPRIYA MANCHIKALAPUDI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),vishnupriya_m@srmap.edu.in
+AP21110010038,KOLLIPARA MANIDEEPAK,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),manideepak_k@srmap.edu.in
+AP21110010022,TADIPARTHY MANI DHEERAJ KUMAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),dheerajkumar_t@srmap.edu.in
+AP21110010123,THOTA MANI SANKAR,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),manisankar_thota@srmap.edu.in
+AP21110010162,GARIKAPATI MANJUNADH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),manjunadh_g@srmap.edu.in
+AP21110010129,KOVVURI MANOJ BHASKAR REDDY,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),manoj_kovvuri@srmap.edu.in
+AP21110010147,GUNDA MANOJ KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),manoj_gunda@srmap.edu.in
+AP21110010052,KADAPA MASIF,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),masif_kadapa@srmap.edu.in
+AP21110011267,AMATHI MOHAN KRISHNA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),mohankrishna_a@srmap.edu.in
+AP21110010154,YELISETTY MOHAN MAHESH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),mohan_yelisetty@srmap.edu.in
+AP21110010031,MIDIDODLA MOUNISH SAI GOWTHAM,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),mounishsai_m@srmap.edu.in
+AP21110010027,MADALA NAGA CHARITAVYA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),nagacharitavya_m@srmap.edu.in
+AP21110010100,KANDUKURI NAGA SHIVA SAI SREERAM,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sreeram_kandukuri@srmap.edu.in
+AP21110010193,VELICHETI NAGA VENKATA MAHENDRA KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),mahendrakumar_v@srmap.edu.in
+AP21110010048,ADDAGADA NAMRATHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),namratha_a@srmap.edu.in
+AP21110010139,YARRAGUNTLA NANDA SAI ABHIRAM,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),abhiram_y@srmap.edu.in
+AP21110010179,MOKHAMATAM NANDINI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),nandini_mokhamatam@srmap.edu.in
+AP21110010190,YANDRAPRAGADA NARASIMHA RAO,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),narasimharao_y@srmap.edu.in
+AP21110010077,GUDEPU NARENDRA SAI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),narendrasai_g@srmap.edu.in
+AP21110010127,NANDIGAM NEELI MEGHANA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),neelimeghana_n@srmap.edu.in
+AP21110010047,SHAIK NEELOFAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),neelofar_shaik@srmap.edu.in
+AP21110011270,LAKSHMI NIKHITHA DODDA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),lakshminikhitha_d@srmap.edu.in
+AP21110010009,RAMISETTY NIMSHASRI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),nimshasri_r@srmap.edu.in
+AP21110010130,NARAYANAM NITHYANANDA SWARUP,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),nithyananda_n@srmap.edu.in
+Register No,Student Name,Program & Section,Email Id
+AP21110010003,MERUVA N V SAI AYYAPPA AKASH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),akash_meruva@srmap.edu.in
+AP21110010017,ALLU N.V.S.SAI PRASANNA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),saiprasanna_allu@srmap.edu.in
+AP21110010064,JENIL PADSHALA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),jenil_padshala@srmap.edu.in
+AP21110010021,PRACHI PALLABI DASH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),prachipallabi_dash@srmap.edu.in
+AP21110011179,RAMINA PAVAN KUMAR,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),pavankumar_ramina@srmap.edu.in
+AP21110010046,AVUTHU PEDA VENKATA SAINATH REDDY,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sainath_avuthu@srmap.edu.in
+AP21110010065,NERUSU PONVITHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),ponvitha_nerusu@srmap.edu.in
+AP21110010103,KOLLI POOJITHA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),poojitha_kolli@srmap.edu.in
+AP21110010074,YARRAMANENI PRAGATHI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),pragathi_y@srmap.edu.in
+AP21110010192,ARJUN PRAMOD,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),arjun_pramod@srmap.edu.in
+AP21110010078,CHILUKURU PRANAYA JASWANTH REDDY,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),jaswanth_pranaya@srmap.edu.in
+AP21110010174,DHEEKONDA PRASANNA KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),prasannakumar_d@srmap.edu.in
+AP21110010069,THOTA PRASHANTHI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),prashanthi_thota@srmap.edu.in
+AP21110010051,CHENNUPATI PREMITHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),premitha_c@srmap.edu.in
+AP21110010035,KESAVAPATNAM PURNA JEAR SWAMI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),purnajear_k@srmap.edu.in
+AP21110010152,KOLLIPARA RAGHAVENDRA SAILESH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sailesh_kollipara@srmap.edu.in
+AP21110010055,SADHU RAGHU,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),raghu_sadhu@srmap.edu.in
+AP21110010171,NALAGONDA RAHUL CHANDRA TEJA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),rahulchandrateja_n@srmap.edu.in
+AP21110010033,VUNDEKODE RASHMITA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),rashmita_v@srmap.edu.in
+AP21110010054,ABHAY REDDY KOTLA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),abhay_kotla@srmap.edu.in
+AP21110010045,SAJJALA REETHU BHARGAVI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),bhargavi_sajjala@srmap.edu.in
+AP21110010030,NAMPALLY RITHIKA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),rithika_nampally@srmap.edu.in
+AP21110010142,KHANDE RITIKA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),ritika_khande@srmap.edu.in
+AP21110010081,BOLLINENI ROHITH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),rohith_bollineni@srmap.edu.in
+AP21110010140,JANNU RUCHITHA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),ruchitha_jannu@srmap.edu.in
+AP21110010104,SHAIK SAAJIYA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),saajiya_shaik@srmap.edu.in
+AP21110010122,PRAKHAR SACHAN,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),prakhar_sachan@srmap.edu.in
+AP21110010037,AKHILA SAHITHI CH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),akhila_sahithi@srmap.edu.in
+AP21110010181,CHILUKURI SAHITHYA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sahithya_chilukuri@srmap.edu.in
+AP21110010188,DARAM SAI DEEPIKA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),saideepika_daram@srmap.edu.in
+AP21110010032,RAYAPUREDDY SAI DHANUSH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),saidhanush_r@srmap.edu.in
+AP21110011173,TALLAPUDI SAI DURGA SARDHI PRANU DEEPAK,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),deepak_tallapudi@srmap.edu.in
+AP21110011177,MD SAIFUR RAHMAN,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),saifurrahman_md@srmap.edu.in
+AP21110010042,LANKA SAI GOPAL,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),gopal_lanka@srmap.edu.in
+AP21110010024,ALURI SAI KEERTHI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),saikeerthi_aluri@srmap.edu.in
+AP21110010014,VENKATA SAI LAXMAN B,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sailaxman_b@srmap.edu.in
+AP21110010034,DASARI SAI NAGA HARITHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),nagaharitha_dasari@srmap.edu.in
+AP21110010096,YALAMANCHILI SAI NARASIMHA CHOWDARY,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sainarasimha_y@srmap.edu.in
+AP21110010011,KOTHA SANKEERTHANA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sankeerthana_k@srmap.edu.in
+AP21110010150,PADIDELA SANNITHRAO,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sannithrao_p@srmap.edu.in
+AP21110010097,SAI SARVAGNA SISTA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),saisarvagna_sista@srmap.edu.in
+AP21110011182,MANDALANENI SESHA SAI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),seshasai_m@srmap.edu.in
+AP21110010145,DIVYANSH SHAHI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),divyansh_shahi@srmap.edu.in
+AP21110010062,BEESU SHARAN KUMAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sharankumar_b@srmap.edu.in
+AP21110010043,DHRUV SHARMA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),dhruv_sharma@srmap.edu.in
+AP21110011175,SIRIGIRI SHARMILA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sharmila_sirigiri@srmap.edu.in
+AP21110010157,MAYANK SHUKLA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),mayank_shukla@srmap.edu.in
+AP21110010013,PATANGE SHYAM NAGA SURAJ,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),shyam_suraj@srmap.edu.in
+AP21110010118,MUTHOJA SIDDHARDH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),siddhardh_muthoja@srmap.edu.in
+AP21110010018,SANJANA SINGAMSETTY,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sanjana_s@srmap.edu.in
+AP21110010195,GOPAVARAPU SIVAMANI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sivamani_gopavarapu@srmap.edu.in
+AP21110010124,NUNNA SIVA PRASAD,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sivaprasad_nunna@srmap.edu.in
+AP21110010019,KOMMINENI SIVA RAM,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sivaram_k@srmap.edu.in
+AP21110010001,POLU SIVA SAI CHERISH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sivasai_cherish@srmap.edu.in
+AP21110010075,MANDADAPU SIVA SATYA SAI,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sivasatya_m@srmap.edu.in
+AP21110010068,SIVA S K,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),siva_s@srmap.edu.in
+AP21110010160,KILARI SRAVANI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sravani_kilari@srmap.edu.in
+AP21110010144,MURUKONDA SRAVANTHI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sravanthi_m@srmap.edu.in
+AP21110010029,GUDI SRICHARAN,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sricharan_gudi@srmap.edu.in
+AP21110010007,J SRI HARSHA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),sriharsha_j@srmap.edu.in
+AP21110010036,VENKATA SRIKARI MALLADI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),venkatasrikari_m@srmap.edu.in
+AP21110010015,BOMMIREDDY SRINADHA REDDY,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),srinadha_b@srmap.edu.in
+AP21110010115,KUNDURU SRINATH REDDY,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),srinath_kunduru@srmap.edu.in
+AP21110010180,MANDADAPU SRINIVAS,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),srinivas_mandadapu@srmap.edu.in
+AP21110010143,SURASANI SRINIVAS REDDY,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),srinivas_surasani@srmap.edu.in
+AP21110010016,VEDA SUDEEPTHI NARLA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),vedasudeepthi_n@srmap.edu.in
+AP21110011181,PITCHIKA SUMANTH ADITHYA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),sumanthadithya_p@srmap.edu.in
+AP21110010080,MADALA SUMANTH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),sumanth_madala@srmap.edu.in
+AP21110010105,MAGANTI SURYANARAYANA DATTATREYA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),suryanarayana_m@srmap.edu.in
+AP21110010044,CHUNDURI SUSHEN,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),chunduri_sushen@srmap.edu.in
+AP21110010185,VOLETI SUSRITHA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),susritha_voleti@srmap.edu.in
+AP21110010113,KAVURU TANYA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),tanya_kavuru@srmap.edu.in
+AP21110011174,AKKALA TEJA KRISHNA,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),tejakrishna_akkala@srmap.edu.in
+AP21110010155,PANCHUMARTHI TEJA SAI SRINIVAS,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),panchumarthi_teja@srmap.edu.in
+AP21110010073,GADDAM TEJA SHREYA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),teja_gaddam@srmap.edu.in
+AP21110010025,YATHARTH TOMAR,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),yatharth_tomar@srmap.edu.in
+AP21110010094,BHUVITHA TUMMALA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),bhuvitha_tummala@srmap.edu.in
+AP21110011171,SALETI UDAYA SRUTHI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),udayasruthi_saleti@srmap.edu.in
+AP21110010169,MOVVA VAISHNAVI RATNAM,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),vaishnaviratnam_m@srmap.edu.in
+AP21110010121,R VAMSI KRISHNA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),vamsi_r@srmap.edu.in
+AP21110010135,ALLAM VAMSI KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),vamsi_allam@srmap.edu.in
+AP21110010168,KHYATHI VARDHAN RAVELLA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),vardhanravella_k@srmap.edu.in
+AP21110010072,PUNURU VARSHA REDDY,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),varsha_punuru@srmap.edu.in
+AP21110010107,JONNALAGADDA VARSHITH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),varshith_j@srmap.edu.in
+AP21110010156,VENKAMSETTY VENKATA DURGA MARUTHI PRASANTH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),maruthi_v@srmap.edu.in
+AP21110010133,NAINALA VENKATA KARTHIKEYA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),karthikeya_nainala@srmap.edu.in
+AP21110010183,MUNIPALLE VENKATA KAVYANJALI,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),venkatakavyanjali_m@srmap.edu.in
+AP21110010839,BEECHA VENKATA NAGA HAREESH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),nagahareesh_beecha@srmap.edu.in
+AP21110010005,KANDIMALLA VENKATA PAVANI,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),pavani_kandimalla@srmap.edu.in
+AP21110010146,MANAM VENKATA PRADEEP KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),pradeepkumar_m@srmap.edu.in
+AP21110011185,GANGIREDLA VENKATA SUPRABATH,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),venkatasuprabath_g@srmap.edu.in
+AP21110011178,GUJJARU VIKASH KUMAR,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),vikashkumar_g@srmap.edu.in
+AP21110010108,MALLELA VINUTHNA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),vinuthna_mallela@srmap.edu.in
+AP21110010186,ADI VISHNU AVULA,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),adivishnu_avula@srmap.edu.in
+AP21110010084,KOTHAMASU VIVEK,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),vivek_kothamasu@srmap.edu.in
+AP21110010120,RALLABHANDI V S L ABHIRAM,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),abhiram_r@srmap.edu.in
+AP21110010119,VIJAYA VYSHNAVI MUVVALA,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),vyshnavi_vijaya@srmap.edu.in
+AP21110010173,KOTA YADUNANDANA KUMAR,B.Tech. Computer Science and Engineering 4th Semester-C (Regulation 2021),yadunandanakumar_k@srmap.edu.in
+AP21110010076,KOPALLI YASHESH,B.Tech. Computer Science and Engineering 4th Semester-B (Regulation 2021),yashesh_kopalli@srmap.edu.in
+AP21110010023,DHULIPALLA YASWANTH,B.Tech. Computer Science and Engineering 4th Semester-A (Regulation 2021),yaswanth_d@srmap.edu.in

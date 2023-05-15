@@ -1,0 +1,279 @@
+ Name:HAASITHA AMBATI 
+ Email:haasitha_ambati@srmap.edu.in 
+Sec:A
+
+ Name:JAMMULA AMIT CHANDRA 
+ Email:amith_jammula@srmap.edu.in 
+Sec:A
+
+ Name:TALLAPANENI ANJANA SAI KUMAR 
+ Email:anjanasai_t@srmap.edu.in 
+Sec:A
+
+ Name:SHAIK ANWAR 
+ Email:shaik_anwar@srmap.edu.in 
+Sec:A
+
+ Name:KANDULA AYYAPPA 
+ Email:ayyappa_kandula@srmap.edu.in 
+Sec:A
+
+ Name:PONNURU CHANDAN KUMAR 
+ Email:chandan_ponnuru@srmap.edu.in 
+Sec:A
+
+ Name:SUDUNAGUNTA CHANDRA VIVEK 
+ Email:chandravivek_s@srmap.edu.in 
+Sec:A
+
+ Name:SOURITRI CHATTERJEE 
+ Email:souritri_c@srmap.edu.in 
+Sec:A
+
+ Name:VEERAVALLI CHETHAN 
+ Email:veeravalli_chethan@srmap.edu.in 
+Sec:A
+
+ Name:BATCHU DATTATREYA RAVI PRAKASH GUPTA 
+ Email:raviprakash_b@srmap.edu.in 
+Sec:A
+
+ Name:ATHIPATLA GANESH 
+ Email:ganesh_athipatla@srmap.edu.in 
+Sec:A
+
+ Name:AKASH GHOSH 
+ Email:akash_ghosh@srmap.edu.in 
+Sec:A
+
+ Name:PUNURU HARSHA REDDY 
+ Email:harsha_punuru@srmap.edu.in 
+Sec:A
+
+ Name:ANAPANA KARTHIK REDDY 
+ Email:karthik_anapana@srmap.edu.in 
+Sec:A
+
+ Name:GULLIPALLI KAVYA SRI 
+ Email:kavyasri_gullipalli@srmap.edu.in 
+Sec:A
+
+ Name:BATCHU KEDHAR ASHISH 
+ Email:ashish_batchu@srmap.edu.in 
+Sec:A
+
+ Name:VALLABHANENI KEERTHI 
+ Email:keerthi_v@srmap.edu.in 
+Sec:A
+
+ Name:NIKHIL KUMAR SAINI 
+ Email:nikhilkumar_saini@srmap.edu.in 
+Sec:A
+
+ Name:KOTAPATI LAHARI 
+ Email:lahari_kotapati@srmap.edu.in 
+Sec:A
+
+ Name:PALADUGU LAKSHMI SAI PRAKASH 
+ Email:saiprakash_p@srmap.edu.in 
+Sec:A
+
+ Name:CHIMATA MAHITHA 
+ Email:mahitha_chimata@srmap.edu.in 
+Sec:A
+
+ Name:SHAIK MAHMUD 
+ Email:mahmud_shaik@srmap.edu.in 
+Sec:A
+
+ Name:KOLLIPARA MANIDEEPAK 
+ Email:manideepak_k@srmap.edu.in 
+Sec:A
+
+ Name:TADIPARTHY MANI DHEERAJ KUMAR 
+ Email:dheerajkumar_t@srmap.edu.in 
+Sec:A
+
+ Name:KADAPA MASIF 
+ Email:masif_kadapa@srmap.edu.in 
+Sec:A
+
+ Name:MIDIDODLA MOUNISH SAI GOWTHAM 
+ Email:mounishsai_m@srmap.edu.in 
+Sec:A
+
+ Name:MADALA NAGA CHARITAVYA 
+ Email:nagacharitavya_m@srmap.edu.in 
+Sec:A
+
+ Name:ADDAGADA NAMRATHA 
+ Email:namratha_a@srmap.edu.in 
+Sec:A
+
+ Name:SHAIK NEELOFAR 
+ Email:neelofar_shaik@srmap.edu.in 
+Sec:A
+
+ Name:RAMISETTY NIMSHASRI 
+ Email:nimshasri_r@srmap.edu.in 
+Sec:A
+
+ Name:MERUVA N V SAI AYYAPPA AKASH 
+ Email:akash_meruva@srmap.edu.in 
+Sec:A
+
+ Name:ALLU N.V.S.SAI PRASANNA 
+ Email:saiprasanna_allu@srmap.edu.in 
+Sec:A
+
+ Name:JENIL PADSHALA 
+ Email:jenil_padshala@srmap.edu.in 
+Sec:A
+
+ Name:PRACHI PALLABI DASH 
+ Email:prachipallabi_dash@srmap.edu.in 
+Sec:A
+
+ Name:AVUTHU PEDA VENKATA SAINATH REDDY 
+ Email:sainath_avuthu@srmap.edu.in 
+Sec:A
+
+ Name:NERUSU PONVITHA 
+ Email:ponvitha_nerusu@srmap.edu.in 
+Sec:A
+
+ Name:CHENNUPATI PREMITHA 
+ Email:premitha_c@srmap.edu.in 
+Sec:A
+
+ Name:KESAVAPATNAM PURNA JEAR SWAMI 
+ Email:purnajear_k@srmap.edu.in 
+Sec:A
+
+ Name:SADHU RAGHU 
+ Email:raghu_sadhu@srmap.edu.in 
+Sec:A
+
+ Name:VUNDEKODE RASHMITA 
+ Email:rashmita_v@srmap.edu.in 
+Sec:A
+
+ Name:ABHAY REDDY KOTLA 
+ Email:abhay_kotla@srmap.edu.in 
+Sec:A
+
+ Name:SAJJALA REETHU BHARGAVI 
+ Email:bhargavi_sajjala@srmap.edu.in 
+Sec:A
+
+ Name:NAMPALLY RITHIKA 
+ Email:rithika_nampally@srmap.edu.in 
+Sec:A
+
+ Name:AKHILA SAHITHI CH 
+ Email:akhila_sahithi@srmap.edu.in 
+Sec:A
+
+ Name:RAYAPUREDDY SAI DHANUSH 
+ Email:saidhanush_r@srmap.edu.in 
+Sec:A
+
+ Name:TALLAPUDI SAI DURGA SARDHI PRANU DEEPAK 
+ Email:deepak_tallapudi@srmap.edu.in 
+Sec:A
+
+ Name:LANKA SAI GOPAL 
+ Email:gopal_lanka@srmap.edu.in 
+Sec:A
+
+ Name:ALURI SAI KEERTHI 
+ Email:saikeerthi_aluri@srmap.edu.in 
+Sec:A
+
+ Name:VENKATA SAI LAXMAN B 
+ Email:sailaxman_b@srmap.edu.in 
+Sec:A
+
+ Name:DASARI SAI NAGA HARITHA 
+ Email:nagaharitha_dasari@srmap.edu.in 
+Sec:A
+
+ Name:KOTHA SANKEERTHANA 
+ Email:sankeerthana_k@srmap.edu.in 
+Sec:A
+
+ Name:BEESU SHARAN KUMAR 
+ Email:sharankumar_b@srmap.edu.in 
+Sec:A
+
+ Name:DHRUV SHARMA 
+ Email:dhruv_sharma@srmap.edu.in 
+Sec:A
+
+ Name:SIRIGIRI SHARMILA 
+ Email:sharmila_sirigiri@srmap.edu.in 
+Sec:A
+
+ Name:PATANGE SHYAM NAGA SURAJ 
+ Email:shyam_suraj@srmap.edu.in 
+Sec:A
+
+ Name:SANJANA SINGAMSETTY 
+ Email:sanjana_s@srmap.edu.in 
+Sec:A
+
+ Name:KOMMINENI SIVA RAM 
+ Email:sivaram_k@srmap.edu.in 
+Sec:A
+
+ Name:POLU SIVA SAI CHERISH 
+ Email:sivasai_cherish@srmap.edu.in 
+Sec:A
+
+ Name:GUDI SRICHARAN 
+ Email:sricharan_gudi@srmap.edu.in 
+Sec:A
+
+ Name:J SRI HARSHA 
+ Email:sriharsha_j@srmap.edu.in 
+Sec:A
+
+ Name:VENKATA SRIKARI MALLADI 
+ Email:venkatasrikari_m@srmap.edu.in 
+Sec:A
+
+ Name:BOMMIREDDY SRINADHA REDDY 
+ Email:srinadha_b@srmap.edu.in 
+Sec:A
+
+ Name:VEDA SUDEEPTHI NARLA 
+ Email:vedasudeepthi_n@srmap.edu.in 
+Sec:A
+
+ Name:CHUNDURI SUSHEN 
+ Email:chunduri_sushen@srmap.edu.in 
+Sec:A
+
+ Name:AKKALA TEJA KRISHNA 
+ Email:tejakrishna_akkala@srmap.edu.in 
+Sec:A
+
+ Name:YATHARTH TOMAR 
+ Email:yatharth_tomar@srmap.edu.in 
+Sec:A
+
+ Name:SALETI UDAYA SRUTHI 
+ Email:udayasruthi_saleti@srmap.edu.in 
+Sec:A
+
+ Name:BEECHA VENKATA NAGA HAREESH 
+ Email:nagahareesh_beecha@srmap.edu.in 
+Sec:A
+
+ Name:KANDIMALLA VENKATA PAVANI 
+ Email:pavani_kandimalla@srmap.edu.in 
+Sec:A
+
+ Name:DHULIPALLA YASWANTH 
+ Email:yaswanth_d@srmap.edu.in 
+Sec:A
